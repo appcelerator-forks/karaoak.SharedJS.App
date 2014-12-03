@@ -1,0 +1,8 @@
+<Alloy>
+    <Window>
+        <View class="container">
+            <Label id="label" onClick="doClick">Dog</Label>
+            <Label id="label" onClick="openWin2">Open Second Window</Label>
+        </View>
+    </Window>
+</Alloy>

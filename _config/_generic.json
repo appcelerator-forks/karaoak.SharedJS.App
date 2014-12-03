@@ -1,0 +1,10 @@
+{
+    "ti_sdk_version": {
+        "ios": "3.4.1.GA",
+        "android": "3.4.1.GA"
+    },
+    "modules": {
+        "ios": [],
+        "android": []
+    }
+}

@@ -1,0 +1,29 @@
+## OS files
+.DS_Store
+
+## Aptana Studio 3 project file
+## *.project
+*.settings
+
+## IntelliJ
+.idea
+
+## Titanium Classic
+build
+build.log
+tmp
+.map
+
+## Alloy
+Resources/*
+
+## Grunt / Node
+node_modules/*
+npm-debug.log
+
+## MDNQ Stuff
+_builds/*
+_config/developers
+
+## MDNQ symbolic links
+app/lib/core

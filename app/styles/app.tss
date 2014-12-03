@@ -1,0 +1,22 @@
+"Window": {
+    backgroundColor: "white"
+}
+
+".container": {
+	layout: "vertical",
+	width: Ti.UI.SIZE,
+    height: Ti.UI.SIZE,
+}
+
+"Label": {
+	width: Ti.UI.SIZE,
+	height: Ti.UI.SIZE,
+	color: "#000"
+}
+
+"#label": {
+    top: 10,
+	font: {
+		fontSize: 12,
+	}
+}

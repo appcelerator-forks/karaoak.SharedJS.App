@@ -1,0 +1,48 @@
+{
+    "version_number": "1.0.0",
+    "app_name": "Test App",
+    "publisher": "Karaoak",
+    "url": "http://karaoak.com",
+    "description": "Shared JS Codebase Ti App",
+    "copyright": "2014 Karaoak",
+    "guid": "d4e08ac6-eee9-484a-b204-a8af39727786",
+    "url_scheme": "",
+    "theme": "",
+    "modules": {
+        "ios": [],
+        "android": []
+    },
+    "ios": {
+        "app_id": "com.karaoak.sharedjs",
+
+        "device": {
+            "developerName": "Frank (5M5555555)",
+            "ppUuid": "8dada34f-55555-8b1b-555083fa528"
+        },
+        "dist_adhoc": {
+            "distributionName": "Medianique (2Z55555F9C5)",
+            "ppUuid": "c30302f0-5555-5555-bcd2-cc03a6d15718"
+        },
+        "dist_appstore": {
+            "distributionName": "Medicd anique (2Z55555F9C5)",
+            "ppUuid": "dea4340f-5555-5555-9229-2e981168ae55"
+        }
+    },
+    "android": {
+        "app_id": "com.karaoak.sharedjs",
+        "label": "SharedJS",
+        "keystore": "_config/keystores/sharedjs.keystore",
+        "storepass": "demo123",
+        "keyalias": "sharedjs"
+    },
+    "google": {
+        "ua": "UA-5555555-X"
+    },
+    "facebook": {
+        "app_id": "",
+        "url": "https://www.facebook.com/X"
+    },
+    "twitter": {
+        "url": "https://twitter.com/X"
+    }
+}

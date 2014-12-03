@@ -1,0 +1,16 @@
+{
+  "name": "sharedjs-app",
+  "version": "0.1.0",
+  "description": "SharedJS X Platform Titanium Alloy App",
+  "private": true,
+  "author": "Karaoak",
+  "devDependencies": {
+    "grunt": "~0.4.5",
+    "load-grunt-tasks": "~0.6.0",
+    "load-grunt-config": "~0.10.0",
+    "time-grunt": "~0.3.2",
+    "grunt-shell": "~0.7.0",
+    "grunt-titanium": "~0.2.2",
+    "tiapp.xml": "^0.2.0"
+  }
+}
