@@ -3,7 +3,7 @@
   xmlns:ti="http://ti.appcelerator.org">
   <id>com.karaoak.sharedjs</id>
   <name>Test App</name>
-  <version>1.0.0.1417613360</version>
+  <version>1.0.0.1417617465</version>
   <publisher>Karaoak</publisher>
   <url>http://karaoak.com</url>
   <description>Shared JS Codebase Ti App</description>
@@ -53,5 +53,5 @@
     <plugins>
       <plugin version="1.5.1">ti.alloy</plugin>
     </plugins>
-    <property name="build.timestamp" type="string">1417613360</property>
+    <property name="build.timestamp" type="string">1417617465</property>
   </ti:app>
