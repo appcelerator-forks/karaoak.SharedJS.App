@@ -8,12 +8,14 @@ So setting up this project would require the following:
 
 	$ npm install
 	$ cd app/lib
-	$ ln -s [hybrid-core]/src core (typically: $ ln -s ../../../core/src core)
+	$ ln -s [sharedjs-core]/src core (typically: $ ln -s ../../../core/src core)
 
 
 ###Build instructions
 Either use the Ti CLI or the repository grunt tasks to build the app per platform.
 
+	$ grunt tiapp --app default --p ios
+	$ grunt sim --device 5s
 
 ### Documentation
 Please find a list of the main SDKs and modules used in this project:
@@ -21,6 +23,9 @@ Please find a list of the main SDKs and modules used in this project:
 * [Titanium documentation](http://docs.appcelerator.com/titanium/latest/)
 * [Alloy Framework](http://docs.appcelerator.com/titanium/latest/#!/guide/Alloy_Framework)
 * [Andoid SDK](http://developer.android.com/sdk/index.html)
+
+For more information see my slides on [Speakerdeck](https://speakerdeck.com/karaoak/shared-web-plus-ti-app-javascript-codebase)
+
 
 
 
