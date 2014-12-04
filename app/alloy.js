@@ -1,5 +1,6 @@
 require('proxy').getInstance({
     backbone: "alloy/backbone",
     _: "alloy/underscore",
-    logger: "logger"
+    logger: "logger",
+    audioplayer: "audioplayer"
 });

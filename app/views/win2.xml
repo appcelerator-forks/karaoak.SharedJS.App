@@ -1,9 +1,0 @@
-<Alloy>
-    <Window>
-        <View class="container">
-            <Label id="label" onClick="doClick">Dog</Label>
-            <Label id="label" onClick="catClick">Cat</Label>
-            <Label id="label" onClick="closeWin2">Close Second (this) Window</Label>
-        </View>
-    </Window>
-</Alloy>
